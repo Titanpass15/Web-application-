@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>REDDERSPC</Machine>
+    <WindowsUser>Kieran</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4709redders90.FunwithSignIreland</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E8AF60D374F5EE127220E020A23C17B02384CF769F9BBAE2BA6CC048FE70BA4D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4709redders90.FunwithSignIreland_1.1.0.6_neutral__zb6dt2cetc6am</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4709redders90.FunwithSignIreland_zb6dt2cetc6am!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4709redders90.FunwithSignIreland</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=3671A004-0158-4EB5-842A-25402A4BE97B</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.6</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T17:36:21.065</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\translator.Windows.exe">
+      <PackagePath>translator.Windows.exe</PackagePath>
+      <Modified>2015-04-24T17:36:20.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T15:24:02.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T15:23:28.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2014-03-14T10:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T15:22:53.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\A.png">
+      <PackagePath>Images\A.png</PackagePath>
+      <Modified>2015-02-02T18:37:43.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\B.png">
+      <PackagePath>Images\B.png</PackagePath>
+      <Modified>2015-02-02T18:36:45.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\C.png">
+      <PackagePath>Images\C.png</PackagePath>
+      <Modified>2015-02-02T18:37:05.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\D.png">
+      <PackagePath>Images\D.png</PackagePath>
+      <Modified>2015-02-02T18:37:25.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\E.png">
+      <PackagePath>Images\E.png</PackagePath>
+      <Modified>2015-02-02T18:38:00.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\F.png">
+      <PackagePath>Images\F.png</PackagePath>
+      <Modified>2015-02-02T18:38:13.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\G.png">
+      <PackagePath>Images\G.png</PackagePath>
+      <Modified>2015-02-02T18:38:29.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\H.png">
+      <PackagePath>Images\H.png</PackagePath>
+      <Modified>2015-02-02T18:38:45.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\I.png">
+      <PackagePath>Images\I.png</PackagePath>
+      <Modified>2015-02-02T18:38:57.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\J.png">
+      <PackagePath>Images\J.png</PackagePath>
+      <Modified>2015-02-02T18:39:11.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\K.png">
+      <PackagePath>Images\K.png</PackagePath>
+      <Modified>2015-02-02T18:39:31.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\L.png">
+      <PackagePath>Images\L.png</PackagePath>
+      <Modified>2015-02-02T18:39:46.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\M.png">
+      <PackagePath>Images\M.png</PackagePath>
+      <Modified>2015-02-02T18:40:00.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\N.png">
+      <PackagePath>Images\N.png</PackagePath>
+      <Modified>2015-02-02T18:40:17.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\O.png">
+      <PackagePath>Images\O.png</PackagePath>
+      <Modified>2015-02-02T18:40:32.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\P.png">
+      <PackagePath>Images\P.png</PackagePath>
+      <Modified>2015-02-02T18:40:45.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\Q.png">
+      <PackagePath>Images\Q.png</PackagePath>
+      <Modified>2015-02-02T18:41:10.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\R.png">
+      <PackagePath>Images\R.png</PackagePath>
+      <Modified>2015-02-02T18:41:29.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\S.png">
+      <PackagePath>Images\S.png</PackagePath>
+      <Modified>2015-02-02T18:41:46.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\T.png">
+      <PackagePath>Images\T.png</PackagePath>
+      <Modified>2015-02-02T18:42:03.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\U.png">
+      <PackagePath>Images\U.png</PackagePath>
+      <Modified>2015-02-02T18:42:24.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\V.png">
+      <PackagePath>Images\V.png</PackagePath>
+      <Modified>2015-02-02T18:42:42.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\W.png">
+      <PackagePath>Images\W.png</PackagePath>
+      <Modified>2015-02-02T18:42:55.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\X.png">
+      <PackagePath>Images\X.png</PackagePath>
+      <Modified>2015-02-02T18:43:13.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\Y.png">
+      <PackagePath>Images\Y.png</PackagePath>
+      <Modified>2015-02-02T18:43:36.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\Z.png">
+      <PackagePath>Images\Z.png</PackagePath>
+      <Modified>2015-02-02T18:43:50.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\Assets\smilie_cryin.jpg">
+      <PackagePath>Assets\smilie_cryin.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-24T14:57:57.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\city.jpg">
+      <PackagePath>Images\city.jpg</PackagePath>
+      <Modified>2015-03-12T13:14:29.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\convert arrows.jpg">
+      <PackagePath>Images\convert arrows.jpg</PackagePath>
+      <Modified>2015-03-14T09:16:16.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\Full alphabet.jpg">
+      <PackagePath>Images\Full alphabet.jpg</PackagePath>
+      <Modified>2015-02-02T18:35:42.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\mini_Game_city_1.jpg">
+      <PackagePath>Images\mini_Game_city_1.jpg</PackagePath>
+      <Modified>2015-03-14T09:04:41.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\reset_Btn.jpg">
+      <PackagePath>Images\reset_Btn.jpg</PackagePath>
+      <Modified>2015-03-14T09:20:12.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\soundwave.jpg">
+      <PackagePath>Images\soundwave.jpg</PackagePath>
+      <Modified>2015-03-11T09:23:54.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\translator_BckGrnd.jpg">
+      <PackagePath>Images\translator_BckGrnd.jpg</PackagePath>
+      <Modified>2015-03-14T09:29:06.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Data\dictionarys.txt">
+      <PackagePath>Data\dictionarys.txt</PackagePath>
+      <Modified>2015-03-16T11:46:35.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\speaker.GIF">
+      <PackagePath>Images\speaker.GIF</PackagePath>
+      <Modified>2015-03-11T16:42:24.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-20T00:28:42.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\Dictionary.xbf">
+      <PackagePath>Dictionary.xbf</PackagePath>
+      <Modified>2015-04-24T13:38:51.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-24T17:35:25.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\Translation.xbf">
+      <PackagePath>Translation.xbf</PackagePath>
+      <Modified>2015-04-24T17:35:25.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\translator.Windows.xr.xml">
+      <PackagePath>translator.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-24T17:35:25.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-24T17:36:20.690</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

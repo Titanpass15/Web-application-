@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>c9bb842c-a26c-4ae6-9e9b-ba799e4f1327</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>translator</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)clsWords.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Data\dictionarys.txt" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\A.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\B.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\C.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\city.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\convert arrows.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\D.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\E.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\F.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\Full alphabet.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\G.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\H.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\I.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\J.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\K.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\L.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\M.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\mini_Game_city_1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\N.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\O.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\P.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\Q.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\R.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\reset_Btn.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\S.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\soundwave.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\speaker.GIF" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\T.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\translator_BckGrnd.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\U.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\V.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\W.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\X.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\Y.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\Z.png" />
+  </ItemGroup>
+</Project>

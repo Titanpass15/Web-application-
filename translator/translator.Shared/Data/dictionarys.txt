@@ -1,0 +1,29 @@
+﻿[
+
+{"strWord": "A", "strSignImage": "A.png"},
+{"strWord": "B", "strSignImage": "B.png"},
+{"strWord": "C", "strSignImage": "C.png"},
+{"strWord": "D", "strSignImage": "D.png"},
+{"strWord": "E", "strSignImage": "E.png"},
+{"strWord": "F", "strSignImage": "F.png"},
+{"strWord": "G", "strSignImage": "G.png"},
+{"strWord": "H", "strSignImage": "H.png"},
+{"strWord": "I", "strSignImage": "I.png"},
+{"strWord": "J", "strSignImage": "J.png"},
+{"strWord": "K", "strSignImage": "K.png"},
+{"strWord": "L", "strSignImage": "L.png"},
+{"strWord": "M", "strSignImage": "M.png"},
+{"strWord": "N", "strSignImage": "N.png"},
+{"strWord": "O", "strSignImage": "O.png"},
+{"strWord": "P", "strSignImage": "P.png"},
+{"strWord": "Q", "strSignImage": "Q.png"},
+{"strWord": "R", "strSignImage": "R.png"},
+{"strWord": "S", "strSignImage": "S.png"},
+{"strWord": "T", "strSignImage": "T.png"},
+{"strWord": "W", "strSignImage": "W.png"},
+{"strWord": "V", "strSignImage": "V.png"},
+{"strWord": "X", "strSignImage": "X.png"},
+{"strWord": "Y", "strSignImage": "Y.png"},
+{"strWord": "Z", "strSignImage": "Z.png"}
+
+]

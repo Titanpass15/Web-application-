@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="translator.Translation"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:translator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Images/translator_BckGrnd.jpg"/>
+        </Grid.Background>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="665" Margin="551,56,0,0" Stroke="Black" VerticalAlignment="Top" Width="734"/>
+        <Button x:ConnectionId='1' x:Name="answerBtn" Content="ANSWER" HorizontalAlignment="Left" Margin="567,503,0,0" VerticalAlignment="Top" Height="78" Width="262"                        ManipulationMode="TranslateX" BorderBrush="#FF2E00FF" FontSize="48" Foreground="#FFFFD100"/>
+        <Button x:ConnectionId='2' x:Name="startButton" HorizontalAlignment="Left" Margin="792,267,0,0" VerticalAlignment="Top" Height="148" Width="324"                       BorderBrush="#FF2E00FF" Foreground="#FFFFD100" Content="START" FontSize="48"/>
+
+        <Image Name ="imageDisplay" HorizontalAlignment="Left" Height="155" Margin="925,110,0,0" VerticalAlignment="Top" Width="319" RenderTransformOrigin="0.551,0.524" Stretch="Fill"/>
+        <TextBox x:ConnectionId='3' Name = "GuessBox" HorizontalAlignment="Left" Margin="934,506,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="130" Width="179" FontSize="72" FontWeight="Bold" TextAlignment="Center" InputScope="Chat" BorderBrush="#FF2E00FF" BorderThickness="5"                                   />
+        <TextBlock x:ConnectionId='4' x:Name="correctTextBox" HorizontalAlignment="Left" Margin="749,327,0,0" TextWrapping="Wrap" Text="CORRECT" VerticalAlignment="Top" Height="53" Width="234" Foreground="#FFFFB900" SelectionHighlightColor="#FF4C00FF" FontSize="48" FontWeight="Bold"                                                   />
+        <TextBlock x:ConnectionId='5' x:Name="wrongAnswer" HorizontalAlignment="Left" Margin="735,327,0,0" TextWrapping="Wrap" Text="WRONG" VerticalAlignment="Top" Height="50" Width="248" Foreground="#FFFFF300" SelectionHighlightColor="#FF4C00FF" FontSize="48" FontWeight="Bold"                                                   />
+        <Button x:ConnectionId='6' x:Name="TryAgain" HorizontalAlignment="Left" Margin="567,161,0,0" VerticalAlignment="Top" Height="78" Width="309"                       BorderBrush="#FF2E00FF" Foreground="#FFFFD100" Content="TRY AGAIN" FontSize="48"/>
+        <TextBox x:Name="scoreBoard" HorizontalAlignment="Left" Margin="191,647,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="321" FontSize="50" FontWeight="Bold" FontStyle="Italic" Foreground="Black">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFFFE800" Offset="1"/>
+                    <GradientStop Color="#FF558AE8"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Button x:ConnectionId='7' Content="Return" HorizontalAlignment="Left" Margin="1125,643,0,0" VerticalAlignment="Top" Height="118" Width="234" FontFamily="Tempus Sans ITC" FontSize="48"                     >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FF45D836" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Page>
+

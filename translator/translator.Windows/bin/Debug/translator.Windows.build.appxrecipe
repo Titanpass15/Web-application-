@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>REDDERSPC</Machine>
+    <WindowsUser>Kieran</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4709redders90.FunwithSignIreland</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\translator.Windows.exe">
+      <PackagePath>translator.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\A.png">
+      <PackagePath>Images\A.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\B.png">
+      <PackagePath>Images\B.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\C.png">
+      <PackagePath>Images\C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\D.png">
+      <PackagePath>Images\D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\E.png">
+      <PackagePath>Images\E.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\F.png">
+      <PackagePath>Images\F.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\G.png">
+      <PackagePath>Images\G.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\H.png">
+      <PackagePath>Images\H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\I.png">
+      <PackagePath>Images\I.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\J.png">
+      <PackagePath>Images\J.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\K.png">
+      <PackagePath>Images\K.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\L.png">
+      <PackagePath>Images\L.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\M.png">
+      <PackagePath>Images\M.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\N.png">
+      <PackagePath>Images\N.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\O.png">
+      <PackagePath>Images\O.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\P.png">
+      <PackagePath>Images\P.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\Q.png">
+      <PackagePath>Images\Q.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\R.png">
+      <PackagePath>Images\R.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\S.png">
+      <PackagePath>Images\S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\T.png">
+      <PackagePath>Images\T.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\U.png">
+      <PackagePath>Images\U.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\V.png">
+      <PackagePath>Images\V.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\W.png">
+      <PackagePath>Images\W.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\X.png">
+      <PackagePath>Images\X.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\Y.png">
+      <PackagePath>Images\Y.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\Z.png">
+      <PackagePath>Images\Z.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\Assets\smilie_cryin.jpg">
+      <PackagePath>Assets\smilie_cryin.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\city.jpg">
+      <PackagePath>Images\city.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\convert arrows.jpg">
+      <PackagePath>Images\convert arrows.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\Full alphabet.jpg">
+      <PackagePath>Images\Full alphabet.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\mini_Game_city_1.jpg">
+      <PackagePath>Images\mini_Game_city_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\reset_Btn.jpg">
+      <PackagePath>Images\reset_Btn.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\soundwave.jpg">
+      <PackagePath>Images\soundwave.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\translator_BckGrnd.jpg">
+      <PackagePath>Images\translator_BckGrnd.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Data\dictionarys.txt">
+      <PackagePath>Data\dictionarys.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Shared\Images\speaker.GIF">
+      <PackagePath>Images\speaker.GIF</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\Dictionary.xbf">
+      <PackagePath>Dictionary.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\Translation.xbf">
+      <PackagePath>Translation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\translator.Windows.xr.xml">
+      <PackagePath>translator.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kieran\Desktop\Translator\translator\translator\translator.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
